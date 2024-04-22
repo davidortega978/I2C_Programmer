@@ -51,6 +51,7 @@ def incluir_script():
         agregar_texto("Ningún script seleccionado")
 
 
+
 # Crear una instancia de Tkinter
 ventana = tk.Tk()
 ventana.geometry("800x600")
@@ -172,6 +173,3 @@ btn_incluir.pack(side="bottom", padx=5, pady=5)
 
 # Ejecutar el bucle principal de la ventana
 ventana.mainloop()
-
-
-#github commit test
