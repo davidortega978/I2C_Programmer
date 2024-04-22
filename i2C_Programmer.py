@@ -51,7 +51,6 @@ def incluir_script():
         agregar_texto("Ningún script seleccionado")
 
 
-
 # Crear una instancia de Tkinter
 ventana = tk.Tk()
 ventana.geometry("800x600")
